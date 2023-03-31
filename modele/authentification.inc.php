@@ -4,7 +4,6 @@ include_once "bd.utilisateur.inc.php";
 
 function login($mailU, $mdpU) {
     if(!empty($mailU)){
-
         if (!isset($_SESSION)) {
         session_start();
     }

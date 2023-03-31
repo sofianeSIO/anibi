@@ -19,7 +19,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">entrée</a>
+                        <a class="nav-link active" aria-current="page" href="./?action=entree">entrée</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">visite en cours</a>
@@ -46,4 +46,3 @@
         </div>
     </nav>
     <div class="container">
-    </div>
